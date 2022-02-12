@@ -1,0 +1,70 @@
+
+table{
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-collapse: collapse;
+}
+tr, td > div{
+    text-align: center;
+}
+
+
+#box1{
+    background-color:burlywood;
+    }
+
+    #box2
+    {
+    background-color: yellowgreen;
+
+    }
+    #box3
+    {
+    background-color:#9A0680;
+    color: white;
+
+    }
+
+    #box4{
+    background-color: lightcoral;
+    }
+
+    #box5{
+    background-color: aqua;
+    }
+
+    #box6{
+    background-color: chocolate;
+    }
+
+    #box7{
+
+    background-color: crimson;
+    color: white;
+
+    }
+
+    #box8{
+    background-color: hotpink;
+    }
+
+    #box9{
+    background-color: gold;
+    }
+.common{
+    padding: 25px 35px;
+    border-radius: 15%;
+}
+
+#parent >div{
+    display: inline-block;
+    margin: 20px 150px;
+    clear:none;
+    margin-left:10px;
+    }
+
+
+
